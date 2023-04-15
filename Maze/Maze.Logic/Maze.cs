@@ -43,7 +43,7 @@
         private void FillMaze()
         {
             FillBorders();
-           // FillObstacles();
+            FillObstacles();
         }
 
         private void FillObstacles()
