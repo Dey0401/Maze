@@ -18,7 +18,7 @@
 
         public override string ToString()
         {
-            var output = $" ";
+            var output = $"  \t";
 
             for (int i = 0; i < N; i++)
             {
